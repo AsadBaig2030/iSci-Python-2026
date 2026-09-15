@@ -1,9 +1,0 @@
-# TODO: Edit the strings below, then run the cell.
-first_name = "Asad"
-last_initial = "B."
-interests = "Basketball and Video Editing"
-goals = "Learn the application of integrals"
-
-print(f"Hello! I'm {first_name} {last_initial}")
-print("Interests:", interests)
-print("Goals:", goals)
